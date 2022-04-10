@@ -1,3 +1,8 @@
+/*IRepositoryjava
+Author: Nolubabalo Ndongeni
+Student Number: 219319464
+Date: 08 April 2022
+ */
 package za.ac.cput.Repository;
 
 public interface IRepository <obj,Attr>{
